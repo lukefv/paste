@@ -12,7 +12,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <button id="generate">Generate</button>
 </div>
 <div class="footer">
-  <span>Created by <a href="https://vyft.xyz/luke" target="_blank">Luke</a></span>
+  <span>A simple string sharing system created by Luke <a href="https://vyft.xyz/luke" target="_blank">Luke</a></span>
 
   `
 
